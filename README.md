@@ -1,4 +1,5 @@
 ### laravel chat app for demo purposes
+aplikasi demo realtime chat menggunakan metode livewire polling.
 
 ## requirement
 - laravel v10
